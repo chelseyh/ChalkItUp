@@ -1,0 +1,1 @@
+const chalkAnimation = require('chalk-animation');
